@@ -3,15 +3,21 @@ Pie is a simple alternate text file formatter and creator that has alot of unres
 
 You will see 2 files titled with "source code", there is one, which is direct source code, a python file, which is what pie was coded in, then, there is a
 syntactically highlighted source file which is in a html file. This is still source and if you wish to view the source <i>from</i> Pie then you must download this.
-Pie can be compiled directly from Python as long as you download <b>favi.ico</b> and (optionally) the html converted source file. If you are running from exe, download
-all as zip, unzip but keep all files in one directory and run the exe.
-
+Pie can be compiled directly from Python as long as you download <b>favi.ico</b> and (optionally) the html converted source file. You will obviously need all the librarys used in the project installed.
 Librarys used:
 
-
- Tkinter<br>
- Os<br>
- Regex<br>
- Pyttsx3<br>
- Webbrowser<br>
- Datetime<br>
+re<br>
+os<br>
+tkinter<br>
+tkinter.ttk<br>
+datetime<br>
+tkinter.scrolledtext<br>
+webbrowser<br>
+pyttsx3 <br>
+urllib.request<br>
+sys<br>
+keyboard<br>
+tkinter.colorchooser<br>
+cv2<br>
+wikipedia<br>
+requests<br>
