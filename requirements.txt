@@ -1,0 +1,15 @@
+re
+os
+tkinter
+tkinter.ttk
+datetime
+tkinter.scrolledtext
+webbrowser
+pyttsx3
+urllib.request
+sys
+keyboard
+tkinter.colorchooser
+cv2
+wikipedia
+requests
